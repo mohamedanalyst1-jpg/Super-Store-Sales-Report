@@ -4,8 +4,7 @@ This report analyzes a fictional superstore's transactional data to uncover reve
 ## 📊 Dashboard Preview
 
 ### Control Page
-![Control Page](<img width="959" height="503" alt="Screenshot 2026-06-14 134100" src="https://github.com/user-attachments/assets/1571da62-04ab-497d-b950-fd246cb78c7d" />
-)
+![Control Page](Super store  report/Screenshot 2026-06-14 134100.png)
 
 ### Customer Analysis
 ![Customer Analysis](<img width="960" height="540" alt="Screenshot 2026-05-09 174124" src="https://github.com/user-attachments/assets/4a7c8629-1202-409a-a161-9d03a841c9ae" />
