@@ -1,0 +1,9 @@
+StoreID,StoreName,Region,Country
+S01,Cairo Central,North,Egypt
+S02,Alexandria Bay,North,Egypt
+S03,Dubai Mall,Gulf,UAE
+S04,Riyadh Square,Gulf,Saudi Arabia
+S05,Amman City,Levant,Jordan
+S06,Beirut Central,Levant,Lebanon
+S07,Casablanca Hub,West,Morocco
+S08,Tunis Express,West,Tunisia

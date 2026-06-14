@@ -1,0 +1,33 @@
+ProductID,ProductName,Category,SubCategory,CostPrice
+P001,Laptop,Electronics,Electronics,629.57
+P002,Smartphone,Electronics,Electronics,168.76
+P003,Tablet,Electronics,Electronics,356.27
+P004,Headphones,Electronics,Electronics,317.41
+P005,Smartwatch,Electronics,Electronics,702.35
+P006,Camera,Electronics,Electronics,657.52
+P007,Speaker,Electronics,Electronics,819.13
+P008,T-Shirt,Clothing,Clothing,16.09
+P009,Jeans,Clothing,Clothing,39.53
+P010,Jacket,Clothing,Clothing,12.09
+P011,Dress,Clothing,Clothing,25.3
+P012,Shoes,Clothing,Clothing,45.37
+P013,Hat,Clothing,Clothing,11.86
+P014,Scarf,Clothing,Clothing,23.92
+P015,Coffee Beans,Food & Beverage,Food,17.3
+P016,Tea Pack,Food & Beverage,Food,14.99
+P017,Protein Bar,Food & Beverage,Food,7.85
+P018,Juice Box,Food & Beverage,Food,15.96
+P019,Snack Mix,Food & Beverage,Food,20.81
+P020,Olive Oil,Food & Beverage,Food,3.14
+P021,Lamp,Home & Garden,Home,49.9
+P022,Cushion,Home & Garden,Home,44.3
+P023,Plant Pot,Home & Garden,Home,25.69
+P024,Candle,Home & Garden,Home,16.08
+P025,Towel Set,Home & Garden,Home,57.78
+P026,Kitchen Knife,Home & Garden,Home,25.5
+P027,Yoga Mat,Sports,Sports,15.67
+P028,Dumbbells,Sports,Sports,16.12
+P029,Running Shoes,Sports,Sports,102.46
+P030,Water Bottle,Sports,Sports,74.43
+P031,Resistance Band,Sports,Sports,97.82
+P032,Jump Rope,Sports,Sports,88.92
