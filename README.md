@@ -3,21 +3,22 @@
 This report analyzes a fictional superstore's transactional data to uncover revenue patterns, customer behavior, product performance, and geographic distribution of sales. The report is structured across five dedicated pages, each focusing on a specific area of the business, with a central control page for seamless navigation.
 ## 📊 Dashboard Preview
 
-### Control Page
-![Control Page](Super store  report/Screenshot 2026-06-14 134100.png)
-
-### Customer Analysis
-![Customer Analysis](<img width="960" height="540" alt="Screenshot 2026-05-09 174124" src="https://github.com/user-attachments/assets/4a7c8629-1202-409a-a161-9d03a841c9ae" />
-)
-
-### Product Performance
-![Product Performance](images/product-performance.png)
+## 📊 Dashboard Preview
 
 ### Sales Analysis
 ![Sales Analysis](images/sales-analysis.png)
 
+### Customer Analysis
+![Customer Analysis](images/customer-analysis.png)
+
+### Product Performance
+![Product Performance](images/product-performance.png)
+
 ### Stores Analysis
 ![Stores Analysis](images/stores-analysis.png)
+
+### Control Page
+![Control Page](images/control-page.png)
 
 🎯 Key Questions Answered
 
